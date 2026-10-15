@@ -1,0 +1,14 @@
+h1{
+    color: magenta;
+}
+p{
+    color: rgb(12, 223, 58);
+    border-bottom-style: dotted;
+}
+body{
+    background-color: black;
+}
+button{
+    color: rgb(233, 17, 17);
+    background-color: rgb(245, 241, 241);
+}

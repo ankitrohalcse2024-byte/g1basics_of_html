@@ -1,0 +1,37 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    color : white;
+    
+}
+#navbar{
+    height: 60px;
+    background-color: black;
+    transition-property: all;
+    transition-duration: 2s;
+    transition-timing-function: ease;
+}
+#navbar:hover{
+    background-color: chartreuse;
+}
+#logo{
+    color: rgb(240, 160, 104);
+    font-size: 25px;
+    text-decoration: none;
+}
+input{
+    font-size: 16px;
+}
+button{
+    background-color: rgb(240, 145, 77);
+    font-size: 16px;
+    transform: rotate(20deg);
+    transform: translateY(200px);
+}
+a{
+    margin-right: 200px;
+    font-size: 25px;
+}
+a:hover{
+    color: black;
+}

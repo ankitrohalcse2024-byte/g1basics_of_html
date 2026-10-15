@@ -1,0 +1,15 @@
+#one{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(234, 135, 153);
+    background-image: url("https://media.gettyimages.com/id/1056629464/photo/new-york-ny-dani-daniels-attends-dinner-with-dani-launch-party-at-the-mezzanine-on-november-2.jpg?s=612x612&w=gi&k=20&c=GVvcyjvRs2jCKQJxo-alpUtkqTA6xA-QnoyV2J6k3P4=");
+    background-size: cover;
+    right: 50px;
+    position: fixed;
+    top: 0%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: crimson;
+}
+p{
+    font-size: 60px;
+}
